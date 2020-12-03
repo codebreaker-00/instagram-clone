@@ -3,16 +3,13 @@
     padding-top: 0%;
     margin-right: 0%;
     margin-left:  0%;
-    width: 100vw;
     overflow-x: hidden;
     padding-right: 5vh; 
-    height: 100vh;
 }
 
 body{
     overflow-x: hidden;
     overflow-y: hidden;
-    width: 100vw;
 }
 
 .iconNew{
